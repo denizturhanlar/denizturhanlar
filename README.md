@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Data Science and Machine Learning<br> in Miuul DS & ML Bootcamp<br><br>🔭 I’m currently working on Data Science<br><br>💻 Also author  in  Miuul Not Defteri <br><br>💬 Ask me about Data Science<br><br>📫 How to reach me: denizturhanlar2913@gmail.com
+🌱 Data Science Teaching Assistant at Miuul 
+🔭 I’m currently working on Data Science<br><br>
+💻 Also author  in  Miuul Not Defteri <br><br>
+💬 Ask me about Data Science<br><br>
+📫 How to reach me: denizturhanlar2913@gmail.com
 
 
 ## 🌐 Socials:
