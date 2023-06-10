@@ -2,10 +2,15 @@
 
 # 💫 About Me:
 🌱 Data Science Teaching Assistant at Miuul 
+
 🔭 I’m currently working on Data Science
+
 💻 Also author  in  Miuul Not Defteri
+
 💬 Ask me about Data Science
+
 📫 How to reach me: denizturhanlar2913@gmail.com
+
 
 
 ## 🌐 Socials:
